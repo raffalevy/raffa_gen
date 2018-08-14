@@ -1,0 +1,11 @@
+[package]
+name = "raffa_gen"
+version = "0.1.0"
+authors = ["raffa levy"]
+build = "build.rs"
+
+[dependencies]
+cocoa = "0.17.0"
+# objc = "0.2.5"
+cairo-rs = "0.4.1"
+libc = "0.2.43"

@@ -1,0 +1,5 @@
+/target
+**/*.rs.bk
+/libsetup.a
+/setup.o
+/Cargo.lock

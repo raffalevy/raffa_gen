@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+    <dict>
+        <key>CFBundleName</key>
+        <string>RaffaGen</string>
+        <key>CFBundleDisplayName</key>
+        <string>RaffaGen</string>
+        <key>CFBundleIdentifier</key>
+        <string>com.raphaellevy.raffa_gen</string>
+        <key>NSHighResolutionCapable</key>
+        <true/>
+    </dict>
+</plist>
